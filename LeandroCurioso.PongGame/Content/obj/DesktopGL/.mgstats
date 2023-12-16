@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/leand/Projects/LeandroCurioso.PongGame/LeandroCurioso.PongGame/Content/assets/ball.png","C:/Users/leand/Projects/LeandroCurioso.PongGame/LeandroCurioso.PongGame/Content/bin/DesktopGL/assets/ball.xnb","TextureProcessor","Texture2DContent",102,1685,0.066882
+"C:/Users/leand/Projects/LeandroCurioso.PongGame/LeandroCurioso.PongGame/Content/assets/bar.png","C:/Users/leand/Projects/LeandroCurioso.PongGame/LeandroCurioso.PongGame/Content/bin/DesktopGL/assets/bar.xnb","TextureProcessor","Texture2DContent",139,16085,0.0012437
+"C:/Users/leand/Projects/LeandroCurioso.PongGame/LeandroCurioso.PongGame/Content/assets/goal.png","C:/Users/leand/Projects/LeandroCurioso.PongGame/LeandroCurioso.PongGame/Content/bin/DesktopGL/assets/goal.xnb","TextureProcessor","Texture2DContent",14324,327105,0.0063341
